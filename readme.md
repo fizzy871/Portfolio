@@ -71,4 +71,5 @@ TVTap
 
 2016  
 BelRoutes  
-Vitim (iOS, OS X)
+[Vitim (iOS)](res/Vitim/ios/readme.md)  
+[Vitim (OS X)](res/Vitim/osx/readme.md)
