@@ -7,4 +7,4 @@ iPhone, ios 7+, swiftОпределение текущего местопол�
 
 --- 
 **Viewing place menu**  
-<img src="screenshots/2.png" width="320">  
+<img src="screenshots/9.png" width="320">  
