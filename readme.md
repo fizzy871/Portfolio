@@ -6,7 +6,7 @@
 2014 - 2015  -  iOS Team Lead ([VironIT](http://vironit.com))  
 2015 - current time  -  freelance iOS/OS X Developer ([personal site](http://saechnikov.com), [upwork](https://www.upwork.com/freelancers/~0164318e9deae07ccb))
 
-[github](https://github.com/fizzy871), [LinkedIn](https://www.linkedin.com/in/fizzy871), [Facebook](https://www.facebook.com/fizzy871)
+[GitHub](https://github.com/fizzy871), [LinkedIn](https://www.linkedin.com/in/fizzy871), [Facebook](https://www.facebook.com/fizzy871)
 
 ## project examples
 ###[iTravelNZ](res/iTravelNZ/readme.md)
@@ -29,12 +29,39 @@ iPad, iOS6+, as part of developers team
 
 ---
 
-####Другие проекты
-[iLook](res/iLook/readme.md)  
-[foodmastes](res/foodmasters/readme.md)  
+####All projects by year
+
+2013  
+Checkvist client  
+[iOS ads sdk (no desc)](res/iosAdsSDK/readme.md)  
+[DemoApp (no desc)](res/DemoApp/readme.md)  
+[FaceRecognition (no desc)](res/FaceRecognition/readme.md)  
+[GooglePlus testing project (no desc)](res/GooglePlus/readme.md)  
 [GifStory](res/GifStory/readme.md)  
-[MenuFire](res/MenuFire/readme.md)  
-[RandomWords](res/RandomWords/readme.md)  
+LiveJournal client (OS X)
+
+2014  
+[FitnessHD](res/FitnessHD/readme.md)  
+[iLook](res/iLook/readme.md)  
+Simple calculator  
 [taxiApp prototype](res/taxiApp/readme.md)  
+[foodmastes prototype](res/foodmasters/readme.md)  
+"Тренировка внимания"  
+Flappy bird game clone  
+ETB servers state checking app (OS X)
+
+2015  
+TimeSummary iOS client  
+[Zenify](res/Zenify/readme.md)  
 [workshop](res/workshop/readme.md)  
-[Zenify](res/Zenify/readme.md)
+BoyGo/ManGo  
+[iTravelNZ](res/iTravelNZ/readme.md)  
+[RandomWords](res/RandomWords/readme.md)  
+[MenuFire](res/MenuFire/readme.md)  
+Finnyish  
+[Multitran client](res/Multitran/readme.md)  
+TVTap  
+
+2016  
+BelRoutes  
+Vitim (iOS, OS X)
