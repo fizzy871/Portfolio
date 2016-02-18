@@ -6,8 +6,10 @@
 2014 - 2015  -  iOS Team Lead ([VironIT](http://vironit.com))  
 2015 - current time  -  freelance iOS/OS X Developer ([personal site](http://saechnikov.com), [upwork](https://www.upwork.com/freelancers/~0164318e9deae07ccb))
 
+[github](https://github.com/fizzy871), [LinkedIn](https://www.linkedin.com/in/fizzy871), [Facebook](https://www.facebook.com/fizzy871)
+
 ## project examples
-###iTravelNZ
+###[iTravelNZ](res/iTravelNZ/readme.md)
 iPhone, iOS7+, redisign  
 
 iTravelNZ® acts as a trusted and knowledgeable travel companion, one who knows all the best places to visit in spectacular New Zealand. It’s New Zealand in your pocket™! Identify and search for all the must-see attractions. Discover the best natural wonders in gorgeous Aotearoa.  
@@ -17,8 +19,7 @@ iTravelNZ® acts as a trusted and knowledgeable travel companion, one who knows 
 <img src="res/iTravelNZ/screenshots/4.png" width="200">
 
 ---
-###FitnessHD   
-[open full description](res/FitnessHD/readme.md)  
+###[FitnessHD](res/FitnessHD/readme.md)  
 iPad, iOS6+, as part of developers team  
 Fitness for iPad takes all the guesswork out of your gym routine. Simply pick a workout according to your goal or level and follow the guidelines for each exercise. Easy-to-read graphs will clearly show your progress and the changes in your body parameters. With so many thought-out features, Fitness for iPad will become your portable personal trainer.  
 [App Store link](https://itunes.apple.com/app/id788483284)    
@@ -27,3 +28,13 @@ iPad, iOS6+, as part of developers team
 <img src="res/FitnessHD/screenshots/3.png" width="500">
 
 ---
+
+####Другие проекты
+[iLook](res/iLook/readme.md)  
+[foodmastes](res/foodmasters/readme.md)  
+[GifStory](res/GifStory/readme.md)  
+[MenuFire](res/MenuFire/readme.md)  
+[RandomWords](res/RandomWords/readme.md)  
+[taxiApp prototype](res/taxiApp/readme.md)  
+[workshop](res/workshop/readme.md)  
+[Zenify](res/Zenify/readme.md)
