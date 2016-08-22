@@ -6,9 +6,13 @@
 2014 - 2015  -  iOS Team Lead ([VironIT](http://vironit.com))  
 2015 - current time  -  freelance iOS/OS X Developer ([personal site](http://saechnikov.com), [upwork](https://www.upwork.com/freelancers/~0164318e9deae07ccb))
 
-[GitHub](https://github.com/fizzy871), [LinkedIn](https://www.linkedin.com/in/fizzy871), [Facebook](https://www.facebook.com/fizzy871)
+[Personal site](http://saechnikov.com)  
+[Upwork](https://www.upwork.com/freelancers/~0164318e9deae07ccb)   
+[GitHub](https://github.com/fizzy871)  
+[LinkedIn](https://www.linkedin.com/in/fizzy871)  
+[Facebook](https://www.facebook.com/fizzy871)   
 
-## project examples
+## Project examples
 ###[iTravelNZ](res/iTravelNZ/readme.md)
 iPhone, iOS7+, redisign  
 
@@ -38,7 +42,7 @@ iPhone, ios 7+, swiftApplication for viewing nearby restaurants menus.
 
 ####All projects by year
 
-2013  
+2012 - 2013  
 Checkvist client  
 [iOS ads sdk (no desc)](res/iosAdsSDK/readme.md)  
 [DemoApp (no desc)](res/DemoApp/readme.md)  
@@ -70,6 +74,7 @@ Finnyish
 TVTap  
 
 2016  
-BelRoutes  
+[BelRoutes](res/Belroutes/readme.md)  
 [Vitim (iOS)](res/Vitim/ios/readme.md)  
-[Vitim (OS X)](res/Vitim/osx/readme.md)
+[Vitim (OS X)](res/Vitim/osx/readme.md)  
+[LyteRange](res/LyteRange/readme.md)
