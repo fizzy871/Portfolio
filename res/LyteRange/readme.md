@@ -1,4 +1,4 @@
-#LyteRange  
+#LaserApp (LyteRange, Shot Verifyer, Shot Verifyer Lite)  
 iOS, iPad, OpenCV
 
 https://itunes.apple.com/app/id1120557638
