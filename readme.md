@@ -77,4 +77,7 @@ TVTap
 [BelRoutes](res/Belroutes/readme.md)  
 [Vitim (iOS)](res/Vitim/ios/readme.md)  
 [Vitim (OS X)](res/Vitim/osx/readme.md)  
-[LaserApp](res/LyteRange/readme.md)
+[LaserApp](res/LyteRange/readme.md)  
+[LaserApp2](res/LaserApp2/readme.md)  
+[MTGarant](res/MTGarant/readme.md)  
+[Wan2Get](res/Wan2Get/readme.md)  
