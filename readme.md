@@ -6,7 +6,6 @@
 2014 - 2015  -  iOS Team Lead ([VironIT](http://vironit.com))  
 2015 - current time  -  freelance iOS/OS X Developer ([personal site](http://saechnikov.com), [upwork](https://www.upwork.com/freelancers/~0164318e9deae07ccb))
 
-[Personal site](http://saechnikov.com)  
 [Upwork](https://www.upwork.com/freelancers/~0164318e9deae07ccb)   
 [GitHub](https://github.com/fizzy871)  
 [LinkedIn](https://www.linkedin.com/in/fizzy871)  
@@ -17,25 +16,35 @@
 iPhone, iOS7+, redisign  
 
 iTravelNZ® acts as a trusted and knowledgeable travel companion, one who knows all the best places to visit in spectacular New Zealand. It’s New Zealand in your pocket™! Identify and search for all the must-see attractions. Discover the best natural wonders in gorgeous Aotearoa.  
-[App Store link](https://itunes.apple.com/app/id409098753)    
+[App Store link](https://itunes.apple.com/app/id409098753)  
+  
 <img src="res/iTravelNZ/screenshots/preview.png" width="800">  
 
 ---
 ###[FitnessHD](res/FitnessHD/readme.md)  
 iPad, iOS6+, as part of developers team  
-Fitness for iPad takes all the guesswork out of your gym routine. Simply pick a workout according to your goal or level and follow the guidelines for each exercise. Easy-to-read graphs will clearly show your progress and the changes in your body parameters. With so many thought-out features, Fitness for iPad will become your portable personal trainer.  
-[App Store link](https://itunes.apple.com/app/id788483284)    
+
+Fitness for iPad takes all the guesswork out of your gym routine. Simply pick a workout according to your goal or level and follow the guidelines for each exercise. Easy-to-read graphs will clearly show your progress and the changes in your body parameters. With so many thought-out features, Fitness for iPad will become your portable personal trainer.  
+[App Store link](https://itunes.apple.com/app/id788483284)  
+  
 <img src="res/FitnessHD/screenshots/preview.png" width="800">
 
 ---
 ###[Zenify](res/Zenify/readme.md)  
-iPhoneZenify teaches you how to live more mindfully and consciously through a variety of mindfulness meditation exercises delivered to your smart phone. These assignments teach you how to achieve a heightened state of awareness and enhanced consciousness of the present moment.  [App Store link (free version)](https://itunes.apple.com/app/id886145246)  
-[App Store link (paid version)](https://itunes.apple.com/app/id961136594)    
+iPhone
+
+Zenify teaches you how to live more mindfully and consciously through a variety of mindfulness meditation exercises delivered to your smart phone. These assignments teach you how to achieve a heightened state of awareness and enhanced consciousness of the present moment.  
+[App Store link (free version)](https://itunes.apple.com/app/id886145246)  
+[App Store link (paid version)](https://itunes.apple.com/app/id961136594)  
+  
 <img src="res/Zenify/screenshots/preview.png" width="800">
 
 ---
 ###[MenuFire](res/MenuFire/readme.md)  
-iPhone, ios 7+, swiftApplication for viewing nearby restaurants menus.  
+iPhone, ios 7+, swift
+
+Application for viewing nearby restaurants menus.
+  
 <img src="res/MenuFire/screenshots/preview.png" width="800">
 
 ---
