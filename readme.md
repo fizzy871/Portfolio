@@ -9,7 +9,7 @@ Passionate iOS developer who gets great satisfaction from taking an app through 
 
 - [Projects list](projects_list.md)
 - [Projects overview](projects_overview.md)
-- [Technologies](technologies.md)
+- [Technologies](technologies_list.md)
 
 ##### Timeline
 
