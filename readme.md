@@ -13,8 +13,8 @@ Passionate iOS developer who gets great satisfaction from taking an app through 
 
 ##### Timeline
 
-- 2011 | - SharePoint Administrator ([http://learning.bsuir.by](http://learning.bsuir.by))  
-- 2012 | - iOS Developer ([VironIT](http://vironit.com))  
+- 2011 | - SharePoint Administrator ([BSUIR](https://bsuir.by))  
+- 2012 | - iOS Developer ([VironIT](https://vironit.com))  
 - 2013 |
 - 2014 |
 - 2015 | - Freelance iOS Developer ([upwork](https://www.upwork.com/freelancers/~0164318e9deae07ccb))
