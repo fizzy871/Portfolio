@@ -39,12 +39,12 @@
 
 ###### iOS SDK Frameworks
 
-- ARKit
 - AddressBook
 - Accelerate
 - Accessiblity
 - AppStoreConnectAPI
 - AppStoreReceipts
+- ARKit
 - AudioToolbox
 - AVFoundation
 - CFNetwork
@@ -134,6 +134,7 @@
 ###### Other
 
 - OAuth2
+- Sockets
 
 ###### Social Networks
 
