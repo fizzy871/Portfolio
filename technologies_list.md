@@ -1,6 +1,6 @@
 ### Technologies
 
-###### Languiges
+###### Languages
 
 - Swift
 - Objective-C
