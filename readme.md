@@ -3,7 +3,7 @@
 
 ### iOS Developer
 
-Passionate iOS developer who gets great satisfaction from taking an app through the production cycle to it's launch. Has experience of leading teams of 3-5 people and is particularly interested in building or improving a stable architecture for applications to improve their scalability. Fast and enthusiastic learner with interesting and diverse experiences.
+Passionate iOS developer who gets great satisfaction from taking an app through the production cycle to it's launch. Has experience of leading teams of 3-5 people and is particularly interested in building or improving a stable architecture for applications to improve their scalability. Fast and enthusiastic learner with interesting and diverse experiences. [CV](alexey_saechnikov_cv.pdf)
 
 ##### Details
 
