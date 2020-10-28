@@ -1,143 +1,150 @@
 ### Projects list
 
-#### 2012-2013
+##### 2012-2013
 
-Checkvist client
+- Checkvist client
 
-iOS ads sdk
+- iOS ads sdk
 
-DemoApp
+- DemoApp
 
-FaceRecognition
+- FaceRecognition
 
-GooglePlus testing project
+- GooglePlus testing project
 
-GifStory
+- GifStory
 
-LiveJournal client (OS X)
+- LiveJournal client (OS X)
 
-#### 2014
 
-Skype launcher, OS X (2014-02) [GitHub](https://github.com/fizzy871/SkypeLauncherOSX)
+##### 2014
 
-FitnessHD
+- Skype launcher, OS X (2014-02) [GitHub](https://github.com/fizzy871/SkypeLauncherOSX)
 
-iLook
+- FitnessHD
 
-Simple calculator
+- iLook
 
-taxiApp prototype
+- Simple calculator
 
-foodmasters prototype
+- taxiApp prototype
 
-"Тренировка внимания"
+- foodmasters prototype
 
-Flappy bird game clone
+- "Тренировка внимания"
 
-ETB servers state checking app (OS X)
+- Flappy bird game clone
 
-iTravelNZ (2014-12)
+- ETB servers state checking app (OS X)
 
-#### 2015
+- iTravelNZ (2014-12)
 
-TimeSummary iOS client
 
-Zenify
+##### 2015
 
-workshop
+- TimeSummary iOS client
 
-BoyGo/ManGo
+- Zenify
 
-RandomWords (2015-03) [GitHub](https://github.com/fizzy871/RandomWordsApp)
+- workshop
 
-MenuFire (2015-06)
+- BoyGo/ManGo
 
-Finnyish (2015-07)
+- RandomWords (2015-03) [GitHub](https://github.com/fizzy871/RandomWordsApp)
 
-Multitran client, [Bitbucket](https://bitbucket.org/fizzy871/multitrantranslator)
+- MenuFire (2015-06)
 
-Vitim, iOS app (2015-10)
+- Finnyish (2015-07)
 
-Vitim, OS X app (2015-10)
+- Multitran client, [Bitbucket](https://bitbucket.org/fizzy871/multitrantranslator)
 
-TVTap (2015-11, Serge)
+- Vitim, iOS app (2015-10)
 
-#### 2016
+- Vitim, OS X app (2015-10)
 
-BelRoutes, [webpage](http://www.transimperial.by/press-centr/novosti-kompanii1/prilozhenie-belroutes.html)
+- TVTap (2015-11, Serge)
 
-EmSee (2016-05, Serge)
 
-MTGarant (2016-10)
+##### 2016
 
-Wan2Get (2016-10)
+- BelRoutes, [webpage](http://www.transimperial.by/press-centr/novosti-kompanii1/prilozhenie-belroutes.html)
 
-[CineTrigger](https://apps.apple.com/app/id1262868812), LyteRange, [ShotVerifyer](https://apps.apple.com/app//id1120557638) (2016-11, Yury Pushkin) [webpage](http://shot-veryfier.com/)
+- EmSee (2016-05, Serge)
 
-LaserApp2 (2016, Yury Pushkin)
+- MTGarant (2016-10)
 
-Cardz (2016-11)
+- Wan2Get (2016-10)
 
-cbft, flights app (2016-12)
+- [CineTrigger](https://apps.apple.com/app/id1262868812), LyteRange, [ShotVerifyer](https://apps.apple.com/app//id1120557638) (2016-11, Yury Pushkin) [webpage](http://shot-veryfier.com/)
 
-#### 2017
+- LaserApp2 (2016, Yury Pushkin)
 
-TappModuleGlobal (2017-03, TappSolutions) 🧰
+- Cardz (2016-11)
 
-TappModuleUI (2017-03, TappSolutions) 🧰
+- cbft, flights app (2016-12)
 
-TappAppCcaInspect (2017-03, TappSolutions)
 
-TappAppTappPayment (2017-04, TappSolutions)
+##### 2017
 
-TappAppTappWebView (2017-05, TappSolutions)
+- TappModuleGlobal (2017-03, TappSolutions) 🧰
 
-TappAppCcaPayment (2017-07, TappSolutions)
+- TappModuleUI (2017-03, TappSolutions) 🧰
 
-TappAppHlcPayment (2017-07, TappSolutions)
+- TappAppCcaInspect (2017-03, TappSolutions)
 
-CooleSpruche (2017-07, Rasmus)
+- TappAppTappPayment (2017-04, TappSolutions)
 
-FreestyleApp (2017-08, BattleMe)
+- TappAppTappWebView (2017-05, TappSolutions)
 
-TappAppCcaProperty (2017-09, TappSolutions)
+- TappAppCcaPayment (2017-07, TappSolutions)
 
-TappUtilityImageProcessing (2017-10, TappSolutions)
+- TappAppHlcPayment (2017-07, TappSolutions)
 
-TappAppCcaAgent (2017-11, TappSolutions)
+- CooleSpruche (2017-07, Rasmus)
 
-TappAppTappBarcode (2017-11, TappSolutions)
+- FreestyleApp (2017-08, BattleMe)
 
-#### 2018
+- TappAppCcaProperty (2017-09, TappSolutions)
 
-Klue Health, Apple Watch App, watch faces (2018-02)
+- TappUtilityImageProcessing (2017-10, TappSolutions)
 
-TappLsnicJoint (2018-04, TappSolutions)
+- TappAppCcaAgent (2017-11, TappSolutions)
 
-#### 2019
+- TappAppTappBarcode (2017-11, TappSolutions)
 
-tapp-lsnic-localStorage (2019-04, TappSolutions)
 
-Melodic (2019-05, Christian Esmann)
+##### 2018
 
-Augmented reality app for placing furniture (2019-06, КомфортУютМебель)
+- Klue Health, Apple Watch App, watch faces (2018-02)
 
-Husky Inspection (2019-08, TappSolutions)
+- TappLsnicJoint (2018-04, TappSolutions)
 
-DocuScan (2019-09, Christian Esmann)
 
-#### 2020
+##### 2019
 
-360Camera (2020-02)
+- tapp-lsnic-localStorage (2019-04, TappSolutions)
 
-Recorder (2020-03, LaroApps)
+- Melodic (2019-05, Christian Esmann)
 
-Repost (2020, LaroApps)
+- Augmented reality app for placing furniture (2019-06, КомфортУютМебель)
 
-FSClock (2020-04)
+- Husky Inspection (2019-08, TappSolutions)
 
-cx-lbl-precheck (2020-04, TappSolutions)
+- DocuScan (2019-09, Christian Esmann)
 
-cx-lbl-medsup (2020-08, TappSolutions)
 
-cust-cca-cph (2020-09, TappSolutions)
+##### 2020
+
+- 360Camera (2020-02)
+
+- Recorder (2020-03, LaroApps)
+
+- Repost (2020, LaroApps)
+
+- FSClock (2020-04)
+
+- cx-lbl-precheck (2020-04, TappSolutions)
+
+- cx-lbl-medsup (2020-08, TappSolutions)
+
+- cust-cca-cph (2020-09, TappSolutions)
