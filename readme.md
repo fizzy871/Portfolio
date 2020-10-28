@@ -44,11 +44,13 @@ iPhone, ios 7+, swiftApplication for viewing nearby restaurants menus.
 
 ####-- [VironIT](http://vironit.com) --  
 2012 - 2013  
+Checkvist client  
 [iOS ads sdk (no desc)](res/iosAdsSDK/readme.md)  
 [DemoApp (no desc)](res/DemoApp/readme.md)  
 [FaceRecognition (no desc)](res/FaceRecognition/readme.md)  
 [GooglePlus testing project (no desc)](res/GooglePlus/readme.md)  
 [GifStory](res/GifStory/readme.md) ([link](http://vironit.com/portfolio/en/portfolio-item/social-networking-mobile-application/)) - as part of a team  
+LiveJournal client (OS X)
   
 2014  
 [FitnessHD](res/FitnessHD/readme.md) - as part of a team  
@@ -74,11 +76,16 @@ LiveJournal client (OS X)
 
 2014  
 Simple calculator  
+[taxiApp prototype](res/taxiApp/readme.md)  
+[foodmastes prototype](res/foodmasters/readme.md)  
 "Тренировка внимания"  
 Flappy bird game clone 
+ETB servers state checking app (OS X)
 
 2015  
 TimeSummary iOS client  
+[Zenify](res/Zenify/readme.md)  
+[workshop](res/workshop/readme.md)  
 BoyGo/ManGo  
 [iTravelNZ](res/iTravelNZ/readme.md)  
 [RandomWords](res/RandomWords/readme.md)  
@@ -94,6 +101,7 @@ TVTap
 [Vitim (OS X)](res/Vitim/osx/readme.md)  
 [LaserApp](res/LyteRange/readme.md)  
 [LaserApp2](res/LaserApp2/readme.md) 
+[MTGarant](res/MTGarant/readme.md)  
 [Wan2Get](res/Wan2Get/readme.md)  
 
 2017  
