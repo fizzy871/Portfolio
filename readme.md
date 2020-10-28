@@ -1,8 +1,5 @@
 
-
-
-
-#Saechnikov Alexey
+# Saechnikov Alexey
 
 ### iOS Developer
 
@@ -10,9 +7,9 @@ Passionate iOS developer who gets great satisfaction from taking an app through 
 
 ##### Details
 
-- [Projects list](Projects list.md)
-- [Projects overview](Projects overview.md)
-- [Technologies](Technologies.md)
+- [Projects list](projects_list.md)
+- [Projects overview](projects_overview.md)
+- [Technologies](technologies.md)
 
 ##### Timeline
 
