@@ -154,6 +154,7 @@
 - Crashlytics
 - Fabric
 - Fastlane
+- Figma
 - Firebase
 - Flutter
 - Heroku
@@ -166,6 +167,7 @@
 - Parse
 - Playground (Xcode)
 - Simulator (Xcode)
+- Sketch
 - Swift Package Manager
 - SwiftyBeawer
 - TestFlight
