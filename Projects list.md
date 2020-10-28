@@ -81,54 +81,54 @@
 
 - Cardz (2016-11)
 
-- cbft, flights app (2016-12)
+- CarbonFreeTravel (2016-12)
 
 
 ##### 2017
 
-- TappModuleGlobal (2017-03, TappSolutions) 🧰
+- TappModuleGlobal (2017-03, [TappSolutions](https://www.tappsolutions.com/)) 🧰
 
-- TappModuleUI (2017-03, TappSolutions) 🧰
+- TappModuleUI (2017-03, [TappSolutions](https://www.tappsolutions.com/)) 🧰
 
-- TappAppCcaInspect (2017-03, TappSolutions)
+- TappAppCcaInspect (2017-03, [TappSolutions](https://www.tappsolutions.com/))
 
-- TappAppTappPayment (2017-04, TappSolutions)
+- TappAppTappPayment (2017-04, [TappSolutions](https://www.tappsolutions.com/))
 
-- TappAppTappWebView (2017-05, TappSolutions)
+- TappAppTappWebView (2017-05, [TappSolutions](https://www.tappsolutions.com/))
 
-- TappAppCcaPayment (2017-07, TappSolutions)
+- TappAppCcaPayment (2017-07, [TappSolutions](https://www.tappsolutions.com/))
 
-- TappAppHlcPayment (2017-07, TappSolutions)
+- TappAppHlcPayment (2017-07, [TappSolutions](https://www.tappsolutions.com/))
 
 - CooleSpruche (2017-07, Rasmus)
 
-- FreestyleApp (2017-08, BattleMe)
+- FreestyleApp (2017-08, [BattleMe](http://battleme.ru/))
 
-- TappAppCcaProperty (2017-09, TappSolutions)
+- TappAppCcaProperty (2017-09, [TappSolutions](https://www.tappsolutions.com/))
 
-- TappUtilityImageProcessing (2017-10, TappSolutions)
+- TappUtilityImageProcessing (2017-10, [TappSolutions](https://www.tappsolutions.com/))
 
-- TappAppCcaAgent (2017-11, TappSolutions)
+- TappAppCcaAgent (2017-11, [TappSolutions](https://www.tappsolutions.com/))
 
-- TappAppTappBarcode (2017-11, TappSolutions)
+- TappAppTappBarcode (2017-11, [TappSolutions](https://www.tappsolutions.com/))
 
 
 ##### 2018
 
-- Klue Health, Apple Watch App, watch faces (2018-02)
+- Klue Health, Apple Watch App, watch faces (2018-02, [Klue](https://goklue.com/))
 
-- TappLsnicJoint (2018-04, TappSolutions)
+- TappLsnicJoint (2018-04, [TappSolutions](https://www.tappsolutions.com/))
 
 
 ##### 2019
 
-- tapp-lsnic-localStorage (2019-04, TappSolutions)
+- tapp-lsnic-localStorage (2019-04, [TappSolutions](https://www.tappsolutions.com/))
 
 - Melodic (2019-05, Christian Esmann)
 
-- Augmented reality app for placing furniture (2019-06, КомфортУютМебель)
+- Augmented reality app for placing furniture (2019-06, [КомфортУютМебель](http://tutmebel.by/))
 
-- Husky Inspection (2019-08, TappSolutions)
+- Husky Inspection (2019-08, [TappSolutions](https://www.tappsolutions.com/))
 
 - DocuScan (2019-09, Christian Esmann)
 
@@ -137,14 +137,14 @@
 
 - 360Camera (2020-02)
 
-- Recorder (2020-03, LaroApps)
+- Recorder (2020-03, [LaroApps](https://laroapps.com/))
 
-- Repost (2020, LaroApps)
+- Repost (2020, [LaroApps](https://laroapps.com/))
 
 - FSClock (2020-04)
 
-- cx-lbl-precheck (2020-04, TappSolutions)
+- cx-lbl-precheck (2020-04, [TappSolutions](https://www.tappsolutions.com/))
 
-- cx-lbl-medsup (2020-08, TappSolutions)
+- cx-lbl-medsup (2020-08, [TappSolutions](https://www.tappsolutions.com/))
 
-- cust-cca-cph (2020-09, TappSolutions)
+- cust-cca-cph (2020-09, [TappSolutions](https://www.tappsolutions.com/))
