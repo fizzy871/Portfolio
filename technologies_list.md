@@ -1,16 +1,18 @@
-Languiges
+### Technologies
+
+###### Languiges
 
 - Swift
 - Objective-C
 
-Platforms
+###### Platforms
 
 - iOS
 - iPadOS
 - OS X
 - watchOS
 
-Devices
+###### Devices
 
 - Apple TV
 - Apple Watch
@@ -18,7 +20,7 @@ Devices
 - iPad
 - Projectors/AirPlay
 
-Architecture Patterns
+###### Architecture Patterns
 
 - Clean Swift
 - MVC
@@ -26,7 +28,7 @@ Architecture Patterns
 - MVVM
 - VIPER
 
-Interface tools
+###### Interface tools
 
 - Autolayout
 - Interface in code
@@ -35,7 +37,7 @@ Interface tools
 - SwiftUI
 - Xib/Nib
 
-iOS SDK Frameworks
+###### iOS SDK Frameworks
 
 - ARKit
 - AddressBook
@@ -97,7 +99,7 @@ iOS SDK Frameworks
 - WebKit
 - XCTest
 
-Third-Party Frameworks
+###### Third-Party Frameworks
 
 - Alamofire
 - AlamofireImage
@@ -125,22 +127,22 @@ Third-Party Frameworks
 - Vapor
 - ZipArchive
 
-Analytics
+###### Analytics
 
 - Google Analytics
 
-Other
+###### Other
 
 - OAuth2
 
-Social Networks
+###### Social Networks
 
 - Instagram
 - Facebook
 - Twitter
 - Vkontakte
 
-Tools
+###### Tools
 
 - Appetize.io
 - AppStoreConnect
