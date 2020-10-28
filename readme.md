@@ -27,8 +27,10 @@ Passionate iOS developer who gets great satisfaction from taking an app through 
 
 ##### Links
 
-- [Personal site](http://saechnikov.com)  
-- [Upwork](https://www.upwork.com/freelancers/~0164318e9deae07ccb)   
-- [GitHub](https://github.com/fizzy871)  
-- [LinkedIn](https://www.linkedin.com/in/fizzy871)  
 - [Facebook](https://www.facebook.com/fizzy871)   
+- [GitHub](https://github.com/fizzy871)  
+- [LinkedIn](https://www.linkedin.com/in/saechnikov/)  
+- [Personal site](http://saechnikov.com)  
+- [StackOverflow](https://stackoverflow.com/users/1885345/alexey-saechnikov)
+- [Upwork](https://www.upwork.com/freelancers/~0164318e9deae07ccb)   
+
