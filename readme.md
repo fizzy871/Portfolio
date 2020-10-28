@@ -42,34 +42,49 @@ iPhone, ios 7+, swiftApplication for viewing nearby restaurants menus.
 
 ####All projects by year
 
+####-- [VironIT](http://vironit.com) --  
 2012 - 2013  
-Checkvist client  
 [iOS ads sdk (no desc)](res/iosAdsSDK/readme.md)  
 [DemoApp (no desc)](res/DemoApp/readme.md)  
 [FaceRecognition (no desc)](res/FaceRecognition/readme.md)  
 [GooglePlus testing project (no desc)](res/GooglePlus/readme.md)  
-[GifStory](res/GifStory/readme.md)  
-LiveJournal client (OS X)
+[GifStory](res/GifStory/readme.md) ([link](http://vironit.com/portfolio/en/portfolio-item/social-networking-mobile-application/)) - as part of a team  
+  
+2014  
+[FitnessHD](res/FitnessHD/readme.md) - as part of a team  
+[iLook](res/iLook/readme.md)  
+[taxiApp prototype](res/taxiApp/readme.md) - as project architector, team lead  
+[foodmastes prototype](res/foodmasters/readme.md) - as project architector, team lead  
+ETBook ([link](http://vironit.com/portfolio/en/portfolio-item/elearning-mobile-solution/)) - as part of a team  
+ETBook servers state checking app (OS X)   
+  
+2015  
+[Zenify](res/Zenify/readme.md) - as part of a team  
+[workshop](res/workshop/readme.md) - as project architector  
+  
+####-- [MT Soft Garant Market](https://www.mtgarant.com/) --  
+2016  
+[Garant ECM](res/MTGarant/readme.md) ([link](https://www.mtgarant.com/en/product_ecm)) - as part of a team   
+[Moscow City Duma](https://www.mtgarant.com/en/product_duma) - as part of a team  
+
+####-- Freelance --  
+2012 - 2013  
+Checkvist client  
+LiveJournal client (OS X)  
 
 2014  
-[FitnessHD](res/FitnessHD/readme.md)  
-[iLook](res/iLook/readme.md)  
 Simple calculator  
-[taxiApp prototype](res/taxiApp/readme.md)  
-[foodmastes prototype](res/foodmasters/readme.md)  
 "Тренировка внимания"  
-Flappy bird game clone  
-ETB servers state checking app (OS X)
+Flappy bird game clone 
 
 2015  
 TimeSummary iOS client  
-[Zenify](res/Zenify/readme.md)  
-[workshop](res/workshop/readme.md)  
 BoyGo/ManGo  
 [iTravelNZ](res/iTravelNZ/readme.md)  
 [RandomWords](res/RandomWords/readme.md)  
 [MenuFire](res/MenuFire/readme.md)  
 Finnyish  
+EmSee (https://lifehacker.ru/2015/09/26/emsee-dlya-ios-pozvolyaet-vybrat-bit-i-zapisat-pod-nego-rep/, https://itunes.apple.com/us/app/emsee-watch-share-create-freestyle/id1031048971?mt=8)  
 [Multitran client](res/Multitran/readme.md)  
 TVTap  
 
@@ -78,6 +93,10 @@ TVTap
 [Vitim (iOS)](res/Vitim/ios/readme.md)  
 [Vitim (OS X)](res/Vitim/osx/readme.md)  
 [LaserApp](res/LyteRange/readme.md)  
-[LaserApp2](res/LaserApp2/readme.md)  
-[MTGarant](res/MTGarant/readme.md)  
+[LaserApp2](res/LaserApp2/readme.md) 
 [Wan2Get](res/Wan2Get/readme.md)  
+
+2017  
+CardZ  
+CarbonFreeTravel  
+modular application for gathering information  
