@@ -10,6 +10,8 @@ Passionate iOS developer who gets great satisfaction from taking an app through 
 - [Projects list](projects_list.md)
 - [Projects overview](projects_overview.md)
 - [Technologies](technologies_list.md)
+- [Code example: WeatherApp](code_examples_weather_app.md)
+- [Code example: Clock](code_examples_clock.md)
 
 ##### Timeline
 
