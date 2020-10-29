@@ -126,6 +126,7 @@
 - socket.io
 - SVProgressHUD
 - Vapor
+- Zeplin
 - ZipArchive
 
 ###### Analytics
