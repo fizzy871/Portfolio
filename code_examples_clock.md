@@ -18,7 +18,7 @@ https://github.com/fizzy871/FSClock
 
 ------
 
-###### Code where time updates. Triggered by CADisplayLink, 24 frames per socond.
+###### Code where time updates. Triggered by CADisplayLink, 24 frames per second.
 
 ![](code_examples_img/time.png)
 
