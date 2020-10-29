@@ -113,6 +113,7 @@
 - Kingfisher
 - MagicalRecord
 - MBProgressHUD
+- OpenCV
 - PayPal
 - Perfect
 - PhoneNumberKit
