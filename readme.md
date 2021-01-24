@@ -25,7 +25,7 @@ Passionate iOS developer who gets great satisfaction from taking an app through 
 - 2018 | |
 - 2019 | |
 - 2020 | |
-- 2021 | - *open for offers...*
+- 2021 | - iOS Developer ([Excelsior Solutions](https://www.excelsior-solutions.de/))
 
 ##### Links
 
