@@ -127,6 +127,7 @@
 - socket.io
 - SVProgressHUD
 - SwiftyMocky
+- Then
 - Vapor
 - Zeplin
 - ZipArchive
