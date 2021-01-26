@@ -118,6 +118,7 @@
 - Perfect
 - PhoneNumberKit
 - PKHUD
+- PromiseKit
 - ReactiveCocoa
 - RestKit
 - Realm
@@ -125,6 +126,7 @@
 - SnapKit
 - socket.io
 - SVProgressHUD
+- SwiftyMocky
 - Vapor
 - Zeplin
 - ZipArchive
@@ -149,6 +151,7 @@
 
 - Appetize.io
 - AppStoreConnect
+- Azure
 - Bitbucket
 - Bitrise
 - Brew
@@ -163,15 +166,22 @@
 - Instruments (Xcode)
 - GitHub
 - GitLab
+- Invision
 - Jazzy
 - Jira
+- Lottie
 - PaintCode
 - Parse
+- Perfecto
 - Playground (Xcode)
 - Simulator (Xcode)
 - Sketch
+- SonarCube
 - Swift Package Manager
+- SwiftFormat
+- SwiftLint
 - SwiftyBeawer
+- TeamCity
 - TestFlight
 - Xcode
 - xcodebuild
