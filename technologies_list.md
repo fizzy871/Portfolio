@@ -104,6 +104,7 @@
 - Alamofire
 - AlamofireImage
 - AFNetworking
+- AwaitKit
 - Card.io
 - EZAudio
 - GPUImage
@@ -111,6 +112,7 @@
 - ILPDFKit
 - ISO8601
 - Kingfisher
+- Lottie
 - MagicalRecord
 - MBProgressHUD
 - OpenCV
