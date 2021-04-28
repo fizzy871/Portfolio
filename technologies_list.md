@@ -186,6 +186,7 @@
 - SwiftyBeawer
 - TeamCity
 - TestFlight
+- Twine
 - Xcode
 - xcodebuild
 - xcselect
