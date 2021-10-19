@@ -1,3 +1,5 @@
+(October, 2020)
+
 At free time I started to make simple weather forecast application. You can find sources of it here:
 
 https://github.com/fizzy871/WeatherApp
